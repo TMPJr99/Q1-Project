@@ -1,0 +1,79 @@
+header{
+  background-image: url('http://backgroundcheckall.com/wp-content/uploads/2017/12/website-banner-background-png-3.png');
+  height: 250px;
+  padding-top: 30px;
+}
+
+.container{
+  text-align: center;
+}
+
+.header{
+  font-family: monospace;
+  font-size: 50px;
+  letter-spacing: 5px;
+  color: white;
+}
+
+img{
+  height: 100px;
+}
+
+body{
+  background-color: #f3f3f3;
+}
+
+.jumbotron{
+  margin-top: 30px;
+  height: auto;
+  background-color: white;
+  padding-top: 40px;
+}
+
+.input-text{
+  font-size: 50px;
+  font-family: monospace;
+  margin-bottom: 20px;
+}
+
+.search-button{
+  height: 15px;
+  margin-left: 0;
+}
+
+.defs{
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.align-left{
+  text-align: left;
+  margin-left: 156px;
+}
+
+.box{
+min-height: 20vh;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+footer{
+  background-image: url('http://backgroundcheckall.com/wp-content/uploads/2017/12/website-banner-background-png-3.png');
+  height: 50px;
+  margin-top: 100px;
+  padding: 15px;
+  color: white;
+  padding-left: 75px;
+}
+
+.grey{
+  color: darkgrey;
+}
